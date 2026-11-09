@@ -34,6 +34,25 @@ window.PORTFOLIO_PROJECTS = [
     ]
   },
   {
+    "title": "Acompanhamento de trilhas",
+    "category": "Projeto profissional · Power BI",
+    "filter": "bi",
+    "repo": "",
+    "description": "Dashboard desenvolvido a partir de dados que levantei para acompanhar a conclusão dos treinamentos obrigatórios e identificar pendências nas trilhas dos colaboradores.",
+    "tags": [
+      "Power BI",
+      "DAX",
+      "Levantamento de dados",
+      "Indicadores de treinamento"
+    ],
+    "detail": "O projeto reúne uma visão geral da conclusão dos treinamentos e um detalhamento por colaborador e curso, com filtros para apoiar a análise das pendências. No processo acompanhado, a trilha deve estar 100% concluída para atuação em campo; o painel apoia esse acompanhamento. Código e dados internos não são disponibilizados publicamente.",
+    "tint": "#e7efeb",
+    "art": "bars",
+    "image": "",
+    "imageAlt": "",
+    "dashboard": ""
+  },
+  {
     "title": "Churn & retenção de clientes",
     "category": "SQL & Análise",
     "filter": "sql",
