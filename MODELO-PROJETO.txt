@@ -1,0 +1,17 @@
+Copie apenas o objeto abaixo para dentro da lista em projects-data.js.
+Separe-o do projeto anterior com uma vírgula. Substitua os campos.
+
+{
+  "title": "Nome do seu novo projeto",
+  "category": "Dashboard · Power BI",
+  "filter": "bi",
+  "repo": "nome-exato-do-repositorio",
+  "description": "Qual problema você analisou e qual foi a proposta do projeto.",
+  "tags": ["Power BI", "DAX", "Power Query"],
+  "detail": "Explique as etapas, os aprendizados e os resultados que você validou.",
+  "image": "",
+  "imageAlt": "Descrição da captura de tela do projeto",
+  "dashboard": "",
+  "tint": "#eee8f7",
+  "art": "bars"
+}
