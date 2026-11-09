@@ -15,20 +15,20 @@ window.PORTFOLIO_PROJECTS = [
     "detail": "A documentação apresenta um fluxo de ingestão, consultas SQL, análise exploratória e recomendações de negócio. O foco é investigar contratos, perfil de clientes e formas de pagamento.",
     "tint": "#eee8f7",
     "art": "line",
-    "image": "images/churn-faturamento.jpg",
+    "image": "churn-faturamento.jpg",
     "imageAlt": "Faturamento atual e perdido por tipo de contrato",
     "dashboard": "",
     "gallery": [
       {
-        "src": "images/churn-faturamento.jpg",
+        "src": "churn-faturamento.jpg",
         "alt": "Faturamento atual e perdido por tipo de contrato"
       },
       {
-        "src": "images/churn-faixa-etaria.jpg",
+        "src": "churn-faixa-etaria.jpg",
         "alt": "Quantidade de clientes por faixa etária e cancelamento"
       },
       {
-        "src": "images/churn-codigo.jpg",
+        "src": "churn-codigo.jpg",
         "alt": "Implementação da análise em Python e SQL no VS Code"
       }
     ]
@@ -47,7 +47,7 @@ window.PORTFOLIO_PROJECTS = [
     "detail": "Projeto de dashboard com indicadores e filtros interativos. Consulte o repositório para acessar o arquivo do Power BI e a documentação.",
     "tint": "#e6edf6",
     "art": "bars",
-    "image": "images/auto-solutions.jpg",
+    "image": "auto-solutions.jpg",
     "imageAlt": "Dashboard Auto Solutions com indicadores de vendas, custos, lucro e unidades vendidas",
     "dashboard": ""
   },
@@ -65,7 +65,7 @@ window.PORTFOLIO_PROJECTS = [
     "detail": "Projeto de estudo desenvolvido a partir dos ensinamentos da Data Mundo, conforme a documentação do repositório. O arquivo .pbix pode ser aberto no Power BI Desktop.",
     "tint": "#e7efeb",
     "art": "bars",
-    "image": "images/bite-speed.jpg",
+    "image": "bite-speed.jpg",
     "imageAlt": "Dashboard Bite Speed com vendas, lucro, produtos e atendimento",
     "dashboard": ""
   },
@@ -83,7 +83,7 @@ window.PORTFOLIO_PROJECTS = [
     "detail": "O repositório documenta a criação do banco e a execução de scripts de estrutura, inserção de dados e views. Uma aplicação prática de SQL em um cenário de negócio.",
     "tint": "#f2eade",
     "art": "table",
-    "image": "images/ecommerce-sql.jpg",
+    "image": "ecommerce-sql.jpg",
     "imageAlt": "Consultas SQL de análise exploratória do e-commerce no VS Code",
     "dashboard": ""
   },
@@ -102,7 +102,7 @@ window.PORTFOLIO_PROJECTS = [
     "detail": "Projeto de aprendizado baseado nos ensinamentos da Didática Tech, com dados disponibilizados no Kaggle. Consulte o notebook para conhecer a implementação e a avaliação.",
     "tint": "#efe5ed",
     "art": "scatter",
-    "image": "images/identificacao-vinhos.jpg",
+    "image": "identificacao-vinhos.jpg",
     "imageAlt": "Notebook de classificação de vinhos com Extra Trees no Jupyter",
     "dashboard": ""
   }
