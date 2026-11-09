@@ -1,6 +1,39 @@
 // Edite os projetos nesta lista.
 window.PORTFOLIO_PROJECTS = [
   {
+    "title": "SIGEPI · Gestão de materiais",
+    "category": "Projeto profissional · Python & SQLite",
+    "filter": "sql",
+    "repo": "",
+    "description": "Sistema desenvolvido para organizar a gestão de materiais, com controle de estoque, entradas, retiradas e acompanhamento de itens que precisam de reposição.",
+    "tags": [
+      "Python",
+      "SQLite",
+      "Gestão de estoque",
+      "Aplicação desktop"
+    ],
+    "detail": "Aplicação para gestão de EPIs, materiais de viaturas e aplicações para rede. Reúne cadastro de colaboradores, registro de retiradas com quantidade, data e responsável, histórico de movimentações e relatórios. O painel oferece uma visão dos estoques e dos itens abaixo do mínimo. As telas deste portfólio usam dados fictícios; o código e os dados operacionais não são disponibilizados publicamente.",
+    "tint": "#e6edf6",
+    "art": "table",
+    "image": "sigepi-painel.jpg",
+    "imageAlt": "Painel geral do SIGEPI com estoques e itens que precisam de atenção, usando dados fictícios",
+    "dashboard": "",
+    "gallery": [
+      {
+        "src": "sigepi-painel.jpg",
+        "alt": "Painel de EPIs, materiais das viaturas e aplicações para rede — dados fictícios"
+      },
+      {
+        "src": "sigepi-retiradas.jpg",
+        "alt": "Formulário de registro de retirada de materiais no SIGEPI — dados fictícios"
+      },
+      {
+        "src": "sigepi-colaboradores.jpg",
+        "alt": "Cadastro de colaboradores no SIGEPI — dados fictícios"
+      }
+    ]
+  },
+  {
     "title": "Churn & retenção de clientes",
     "category": "SQL & Análise",
     "filter": "sql",
