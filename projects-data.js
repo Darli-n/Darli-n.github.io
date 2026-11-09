@@ -41,16 +41,27 @@ window.PORTFOLIO_PROJECTS = [
     "description": "Dashboard desenvolvido a partir de dados que levantei para acompanhar a conclusão dos treinamentos obrigatórios e identificar pendências nas trilhas dos colaboradores.",
     "tags": [
       "Power BI",
-      "DAX",
+      "HTML",
+      "CSS",
       "Levantamento de dados",
       "Indicadores de treinamento"
     ],
-    "detail": "O projeto reúne uma visão geral da conclusão dos treinamentos e um detalhamento por colaborador e curso, com filtros para apoiar a análise das pendências. No processo acompanhado, a trilha deve estar 100% concluída para atuação em campo; o painel apoia esse acompanhamento. Código e dados internos não são disponibilizados publicamente.",
+    "detail": "Dashboard desenvolvido com Power BI, HTML e CSS a partir de dados que levantei para acompanhar treinamentos obrigatórios. Reúne indicadores de conclusão e pendências, visão por curso e detalhamento individual, com filtros por base, curso e colaborador. No processo acompanhado, a trilha deve estar 100% concluída para atuação em campo; o painel apoia esse acompanhamento. As imagens exibidas no portfólio utilizam dados fictícios. Código e dados internos não são disponibilizados publicamente.",
     "tint": "#e7efeb",
     "art": "bars",
-    "image": "",
-    "imageAlt": "",
-    "dashboard": ""
+    "image": "trilhas-visao-geral.jpg",
+    "imageAlt": "Visão geral do acompanhamento de trilhas — dados fictícios",
+    "dashboard": "",
+    "gallery": [
+      {
+        "src": "trilhas-visao-geral.jpg",
+        "alt": "Visão geral: indicadores e acompanhamento das trilhas — dados fictícios"
+      },
+      {
+        "src": "trilhas-detalhamento.jpg",
+        "alt": "Detalhamento por colaborador e treinamento — dados fictícios"
+      }
+    ]
   },
   {
     "title": "Churn & retenção de clientes",
