@@ -1,0 +1,1 @@
+Coloque suas fotos e capturas nesta pasta. Use nomes sem espaços ou acentos, por exemplo auto-solutions.png. Depois indique image: "images/auto-solutions.png" no projects-data.js. Nenhuma captura real foi fornecida neste pacote.
